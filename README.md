@@ -44,6 +44,12 @@ by going to Simulation ⇒ Start
 
 ## Simulation
 
+<img width="1600" height="695" alt="Image" src="https://github.com/user-attachments/assets/bb79ace0-61f2-4d39-b698-9f3c1c1a419f" />
+
 ## Output
 
+<img width="1600" height="574" alt="Image" src="https://github.com/user-attachments/assets/d6f4665d-b104-4f46-ad53-5fd0f97e2a3d" />
+
 ## Result
+
+design, simulate and analyse a Three phase full wave rectifier controlled by thyristors using MATLAB Simulink is done.
